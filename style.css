@@ -69,4 +69,17 @@ body {
   .restart:hover {
     background-color: #b81d35;
   }
+
+  .mode-select {
+    margin-bottom: 15px;
+    font-size: 1rem;
+  }
+  
+  .mode-select select {
+    padding: 5px 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
   
